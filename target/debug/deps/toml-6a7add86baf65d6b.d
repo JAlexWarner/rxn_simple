@@ -1,0 +1,13 @@
+c:\Users\jalex\000A\rxn_simple\target\debug\deps\toml-6a7add86baf65d6b.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs
+
+c:\Users\jalex\000A\rxn_simple\target\debug\deps\toml-6a7add86baf65d6b.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs:

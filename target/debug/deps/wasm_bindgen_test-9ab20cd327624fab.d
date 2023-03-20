@@ -1,0 +1,9 @@
+c:\Users\jalex\000A\rxn_simple\target\debug\deps\wasm_bindgen_test-9ab20cd327624fab.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\mod.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\browser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\detect.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\node.rs
+
+c:\Users\jalex\000A\rxn_simple\target\debug\deps\wasm_bindgen_test-9ab20cd327624fab.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\mod.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\browser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\detect.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\node.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\mod.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\browser.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\detect.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-test-0.3.34\src\rt\node.rs:

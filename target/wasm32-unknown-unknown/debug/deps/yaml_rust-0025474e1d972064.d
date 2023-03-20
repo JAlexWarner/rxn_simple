@@ -1,0 +1,11 @@
+C:\Users\jalex\000A\rxn_simple\target\wasm32-unknown-unknown\debug\deps\yaml_rust-0025474e1d972064.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\jalex\000A\rxn_simple\target\wasm32-unknown-unknown\debug\deps\libyaml_rust-0025474e1d972064.rlib: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\jalex\000A\rxn_simple\target\wasm32-unknown-unknown\debug\deps\yaml_rust-0025474e1d972064.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs:

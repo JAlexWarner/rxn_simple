@@ -1,0 +1,11 @@
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\leptos_hot_reload-b8fd9c2ae2bcdc06.rmeta: C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\lib.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\diff.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\node.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\parsing.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\patch.js
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\libleptos_hot_reload-b8fd9c2ae2bcdc06.rlib: C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\lib.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\diff.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\node.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\parsing.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\patch.js
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\leptos_hot_reload-b8fd9c2ae2bcdc06.d: C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\lib.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\diff.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\node.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\parsing.rs C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\patch.js
+
+C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\lib.rs:
+C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\diff.rs:
+C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\node.rs:
+C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\parsing.rs:
+C:\Users\jalex\.cargo\git\checkouts\leptos-2c8932a5258b3db6\a9f7784\leptos_hot_reload\src\patch.js:
