@@ -1,0 +1,10 @@
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\proc_macro_utils-2862f18916dd8ea7.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\assert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\__private.rs
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\libproc_macro_utils-2862f18916dd8ea7.rlib: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\assert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\__private.rs
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\proc_macro_utils-2862f18916dd8ea7.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\assert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\__private.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\parser.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\assert.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-utils-0.5.1\src\__private.rs:

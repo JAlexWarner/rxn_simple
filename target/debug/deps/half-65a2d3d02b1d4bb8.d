@@ -1,0 +1,12 @@
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\half-65a2d3d02b1d4bb8.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\libhalf-65a2d3d02b1d4bb8.rlib: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\jalex\000A\rxn_simple\target\debug\deps\half-65a2d3d02b1d4bb8.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs:
